@@ -1,4 +1,4 @@
-package com.ashok.model;
+package com.pranav.model;
 
 public class User {
 
